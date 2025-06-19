@@ -18,8 +18,8 @@ importers:
         specifier: ^5.0.4
         version: 5.8.3
       xmcp:
-        specifier: latest
-        version: 0.0.10(@types/node@24.0.3)(typescript@5.8.3)
+        specifier: 0.0.11
+        version: 0.0.11(@types/node@24.0.3)(typescript@5.8.3)
       zod:
         specifier: ^3.24.4
         version: 3.25.67
@@ -2340,8 +2340,8 @@ packages:
       utf-8-validate:
         optional: true
 
-  xmcp@0.0.10:
-    resolution: {integrity: sha512-ZCOP0bZ+k/xAHmY1CiSc2i73h66gvocft8J2NKwYya1+s5mvM/Q102s4rVG+U39njpLi0RxiViJV1eBhVUcogg==}
+  xmcp@0.0.11:
+    resolution: {integrity: sha512-RjiJV/kCNMDlZBxE1n1OGyoRR3VeKqFvX+pg0QLCnK/GzlaHczBrI0BTlihTP0bcOiQJAtV0ValBfP3Yzi9eQg==}
     hasBin: true
 
   y18n@5.0.8:
@@ -4673,7 +4673,7 @@ snapshots:
 
   ws@8.18.2: {}
 
-  xmcp@0.0.10(@types/node@24.0.3)(typescript@5.8.3):
+  xmcp@0.0.11(@types/node@24.0.3)(typescript@5.8.3):
     dependencies:
       '@modelcontextprotocol/inspector': 0.14.3(@swc/core@1.12.3)(@types/node@24.0.3)(typescript@5.8.3)
       '@modelcontextprotocol/sdk': 1.13.0
