@@ -16,7 +16,7 @@
     "@modelcontextprotocol/sdk": "^1.11.4",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.4",
-    "xmcp": "0.0.11",
+    "xmcp": "0.0.12",
     "zod": "^3.24.4"
   },
   "devDependencies": {
