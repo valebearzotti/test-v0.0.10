@@ -1,1 +1,0 @@
-"use strict";exports.id=787,exports.ids=[787],exports.modules={787:(e,d,s)=>{s.r(d),s.d(d,{default:()=>t});const t=(0,s(328).ApiKeyAuthMiddleware)({apiKey:"my-api-key",headerName:"X-API-KEY"})}};
