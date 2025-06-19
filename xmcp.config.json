@@ -1,0 +1,13 @@
+{
+  "streamable-http": {
+    "port": 3002,
+    "cors": {
+      "origin": "*",
+      "methods": "POST, OPTIONS",
+      "allowedHeaders": "Content-Type, Accept, Origin",
+      "exposedHeaders": "Content-Type, Accept, Origin",
+      "credentials": true,
+      "maxAge": 3600
+    }
+  }
+}
